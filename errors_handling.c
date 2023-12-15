@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * handleError - Outputs relevant error messargses based on the provided error code.
+ * err - Outputs relevant error messargses based on the provided error code.
  * @errorCode: The error codes and their meanings are as follows:
  *   (1) => No input file or multiple files given to the program.
  *   (2) => Unable to operaten or read the specified file.
